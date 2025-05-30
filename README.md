@@ -1,10 +1,12 @@
 <h1 align="center">
-  Bienvenue sur mon GitHub 👋
+  Bienvenue sur le profil GitHub de LeanksCelsus 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
 <p align="center">
-  <a href="https://github.com/ton_pseudo"><img src="https://komarev.com/ghpvc/?username=ton_pseudo&label=Profile%20views&color=0e75b6&style=flat" alt="visites du profil"/></a>
+  <a href="https://github.com/LeanksCelsus">
+    <img src="https://komarev.com/ghpvc/?username=LeanksCelsus&label=Visiteurs&color=0e75b6&style=flat" alt="visites du profil"/>
+  </a>
 </p>
 
 ---
@@ -13,17 +15,17 @@
 
 ## 🚀 À propos de moi
 
-🎯 Je développe actuellement une plateforme **SaaS avec des bots Telegram**  
-📚 En apprentissage actif de **ReactJS** et des technologies frontend modernes  
-🛠️ Spécialisé dans les **bots Discord / Telegram**, les **plateformes SaaS**, le **backend** et les **bases de données**  
-📫 Me contacter : `mon.email@protonmail.com`
+🎯 Développeur passionné, je travaille actuellement sur un projet **SaaS avec des bots Telegram**  
+📚 J’apprends en ce moment **ReactJS** pour enrichir mes compétences frontend  
+🛠️ Spécialisé dans le développement de **bots Discord & Telegram**, les **plateformes SaaS**, le **backend** robuste et la **gestion de bases de données**  
+📫 Me contacter : `leankscelsus.dev@protonmail.com`
 
 ---
 
 ## 🌐 Réseaux sociaux
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/votre_tag)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/votre_pseudo)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/wtpw)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/deouf_dev)
 
 ---
 
@@ -45,18 +47,25 @@
 
 ---
 
-## 📌 Projets en vitrine
+## 📌 Projets à découvrir
 
-🔧 *(Ajoute ici des liens vers tes projets épinglés)*  
-➡️ [Nom du projet](https://github.com/ton_pseudo/ton_projet) - Description rapide  
-➡️ [Autre projet](https://github.com/ton_pseudo/ton_autre_projet) - Description rapide
+🔧 *(Ajoute ici des liens vers tes projets GitHub épinglés)*  
+➡️ [NomDuProjet](https://github.com/LeanksCelsus/NomDuProjet) – Une courte description de ce projet innovant  
+➡️ [AutreProjet](https://github.com/LeanksCelsus/AutreProjet) – Un autre exemple de mes compétences techniques
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 Mes stats GitHub
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ton_pseudo&show_icons=true&theme=default)  
-![Langues utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=ton_pseudo&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeanksCelsus&show_icons=true&theme=default&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeanksCelsus&layout=compact&hide_border=true)
+
+---
+
+## ⏳ En ce moment
+
+- 🚧 Je travaille à la création d’une plateforme SaaS avec intégration de bots automatisés  
+- 💡 Je développe aussi des outils personnalisés pour optimiser la productivité des utilisateurs
 
 ---
 
