@@ -4,9 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/LeanksCelsus">
-    <img src="https://komarev.com/ghpvc/?username=LeanksCelsus&label=Visiteurs&color=0e75b6&style=flat" alt="visites du profil"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=LeanksCelsus&label=Visiteurs&color=0e75b6&style=flat" alt="visites du profil"/>
 </p>
 
 ---
@@ -29,12 +27,8 @@
 ## 🌐 Réseaux sociaux
 
 <p align="center">
-  <a href="https://discordapp.com/users/wtpw">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://t.me/deouf_dev">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
 ---
@@ -60,8 +54,8 @@
 ## 📌 Projets à découvrir
 
 🔧 *(Ajoute ici des liens vers tes projets GitHub épinglés)*  
-➡️ [Projet 1](https://github.com/LeanksCelsus/NomDuProjet) – Une courte description de ce projet innovant  
-➡️ [Projet 2](https://github.com/LeanksCelsus/AutreProjet) – Un autre exemple de mes compétences techniques
+➡️ Projet 1 – Une courte description de ce projet innovant  
+➡️ Projet 2 – Un autre exemple de mes compétences techniques
 
 ---
 
