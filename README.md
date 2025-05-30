@@ -53,7 +53,6 @@
 
 ## 📌 Projets à découvrir
 
-🔧 *(Ajoute ici des liens vers tes projets GitHub épinglés)*  
 ➡️ Projet 1 – Une courte description de ce projet innovant  
 ➡️ Projet 2 – Un autre exemple de mes compétences techniques
 
