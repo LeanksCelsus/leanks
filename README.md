@@ -1,5 +1,5 @@
 <h1 align="center">
-  Bienvenue sur le profil GitHub de LeanksCelsus 👋
+  Bienvenue sur mon profil 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
@@ -15,10 +15,10 @@
 
 ## 🚀 À propos de moi
 
-🎯 Développeur passionné, je travaille actuellement sur un projet **SaaS avec des bots Telegram**  
-📚 J’apprends en ce moment **ReactJS** pour enrichir mes compétences frontend  
-🛠️ Spécialisé dans le développement de **bots Discord & Telegram**, les **plateformes SaaS**, le **backend** robuste et la **gestion de bases de données**  
-📫 Me contacter : `leankscelsus.dev@protonmail.com`
+🎯 Développeur autodidacte et passionné, je travaille avec **Ascend**.
+📚 J’apprends en ce moment la **cybersécurité**
+🛠️ Je suis spécialisé dans les languages bas niveaux et dans le backend
+📫 Me contacter : `leanks.studio@gmail.com`
 
 ---
 
@@ -56,8 +56,8 @@
 ## 📌 Projets à découvrir
 
 🔧 *(Ajoute ici des liens vers tes projets GitHub épinglés)*  
-➡️ [NomDuProjet](https://github.com/LeanksCelsus/NomDuProjet) – Une courte description de ce projet innovant  
-➡️ [AutreProjet](https://github.com/LeanksCelsus/AutreProjet) – Un autre exemple de mes compétences techniques
+➡️ [Projet 1](https://github.com/LeanksCelsus/NomDuProjet) – Une courte description de ce projet innovant  
+➡️ [Projet 2](https://github.com/LeanksCelsus/AutreProjet) – Un autre exemple de mes compétences techniques
 
 ---
 
