@@ -15,10 +15,14 @@
 
 ## 🚀 À propos de moi
 
-🎯 Développeur autodidacte et passionné, je travaille avec **Ascend**.
-📚 J’apprends en ce moment la **cybersécurité**
-🛠️ Je suis spécialisé dans les languages bas niveaux et dans le backend
-📫 Me contacter : `leanks.studio@gmail.com`
+</div>
+
+<ul>
+  <li>🎯 Développeur autodidacte et passionné, je travaille avec <strong>Ascend</strong></li>
+  <li>📚 J’apprends actuellement la <strong>cybersécurité</strong></li>
+  <li>🛠️ Spécialisé dans les <strong>langages bas niveau</strong> et le <strong>backend</strong></li>
+  <li>📫 Me contacter : <code>leanks.studio@gmail.com</code></li>
+</ul>
 
 ---
 
@@ -76,5 +80,3 @@
 - 💡 Je développe aussi des outils personnalisés pour optimiser la productivité des utilisateurs
 
 ---
-
-</div>
