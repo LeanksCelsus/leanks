@@ -69,7 +69,6 @@
 
 ## ⏳ En ce moment
 
-- 🚧 Je travaille à la création d’une plateforme SaaS avec intégration de bots automatisés  
-- 💡 Je développe aussi des outils personnalisés pour optimiser la productivité des utilisateurs
+- 🚧 Je travaille avec **Ascend**.
 
 ---
